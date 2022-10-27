@@ -28,7 +28,7 @@ header {
     margin-top: 0;
     top: 0;
     left: 0;
-    background-image: url("img/fondo-header.png");
+    background-image: url("../img/fondo-header.png");
     background-repeat: round;
     border-radius: 0px 0px 100px 100px; 
     box-shadow: 2px 3px 27px -12px rgba(0,0,0,0.49);
@@ -43,7 +43,7 @@ header {
     margin-top: 0;
     top: 0;
     left: 0;
-    background-image: url("img/fondo-header.png");
+    background-image: url("../img/fondo-header.png");
     background-repeat: round;
     border-radius: 0px 0px 100px 100px; 
     box-shadow: 2px 3px 27px -12px rgba(0,0,0,0.49);
